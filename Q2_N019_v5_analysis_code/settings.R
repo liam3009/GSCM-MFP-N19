@@ -1,0 +1,1 @@
+B_BOOT <- 5000; B_COMP <- 2000; SESOI <- 0.1; LONGSTR <- 20; SEED <- 2026; DATA_FILE <- "N19.csv"
